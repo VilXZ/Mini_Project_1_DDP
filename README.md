@@ -25,6 +25,7 @@ Pada alur awal program ini user/mahasiswa akan diberikan tampilan menu dengan 4 
 Pada menu 1 yaitu absen, mahasiswa melakukan pengisian data dengan memasukkan Nama, NIM, dan Kehadiran.
 
 Tetapi jika kehadiran mahasiswa adalah Izin maka harus mengisi alasan dari izin mahasiswa, seperti yang diperlihatkan pada gambar di bawah ini.
+
 <img width="748" height="727" alt="image" src="https://github.com/user-attachments/assets/18e07710-bcf2-4759-8d79-66ebba563334" />
 
 # 2. Lihat data
