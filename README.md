@@ -41,4 +41,4 @@ Pada menu 3 yaitu ubah data, maaf bang ternyata update datanya gak work :'(
 # 4. Keluar
 <img width="749" height="207" alt="image" src="https://github.com/user-attachments/assets/0e48b0f4-8bd6-45c1-8791-7c5cfc6b3934" />
 
-Jika user/mahaasiswa memilih menu 4, maka akan keluar dari program
+Jika user/mahasiswa memilih menu 4, maka akan keluar dari program
